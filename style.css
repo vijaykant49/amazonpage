@@ -1,0 +1,61 @@
+/* ALPHA CHENNEL */
+
+/* div{
+    width:100px;
+    height:100px;
+    margin:25px;
+    padding:25px;
+    display:inline-block
+}
+#box1{
+    background-color: rgba(0,0,255,.25);
+}
+#box2{
+    background-color: rgba(0,0,255,0.5);
+}
+#box3{
+    background-color: rgba(0,0,255,1);
+} */
+/* *{
+    margin:0;
+    padding:0;
+    color:white;
+} */
+*{
+    margin:0;
+    padding:0;
+    color:white;
+}
+
+#navbar{ 
+    height:60px; 
+    background-color:#0f1111;
+    
+} 
+button{ 
+    background-color: #F08804; 
+} 
+#logo{ 
+    color:#F08804; 
+    font-size: 25px; 
+} 
+a{ 
+    margin-right:160px; 
+    text-decoration: none; 
+ 
+}
+
+.contentbox{
+    height:100px;
+    width:100px;
+    border: 2px solid black;
+    display:inline-block;
+}
+#content{
+    height:480px;
+}
+footer{
+    background-color: #0f1111;
+    color:white;
+    text-align: center;
+}
